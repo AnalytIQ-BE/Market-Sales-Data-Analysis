@@ -11,7 +11,8 @@ The "Market Sales Dataset" is a comprehensive collection of sales data that incl
 ### Folder Structure
 The dataset is stored in the `data` folder of this project. Upon extraction, the folder structure is as follows:
 
-data/ └── market-sales-data/ ├── sales_data_1.csv ├── sales_data_2.csv ├── … └── README.md
+data/ └── market-sales-data/ ├── supermarket_sales new.csv 
+└── README.md
 
 ### Usage
 To use the dataset, follow these steps:
